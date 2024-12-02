@@ -1,0 +1,6 @@
+[submodule "teamtext-backend"]
+	path = teamtext-backend
+	url = https://github.com/DaryaKrupenyova/teamtext-backend.git
+[submodule "teamtext-frontend"]
+	path = teamtext-frontend
+	url = https://github.com/DaryaKrupenyova/teamtext-frontend.git
