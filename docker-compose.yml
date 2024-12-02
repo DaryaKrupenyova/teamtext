@@ -12,7 +12,7 @@ services:
       - ./teamtext-backend:/app
   frontend:
     build:
-      context: ./clicknshop-frontend
+      context: ./teamtext-frontend
       dockerfile: Dockerfile.dev
     container_name: tt-react
     depends_on:
